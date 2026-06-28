@@ -1,0 +1,8 @@
+# py cache
+__pycache__/
+
+# local config
+config_local.py
+
+# data folder contents
+data/*
